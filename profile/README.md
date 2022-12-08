@@ -6,7 +6,7 @@ With grommunio it no longer matters how many communication channels you use. The
 
 Decide for yourself where your data is stored – at home :house_with_garden:, on your server :office:, in your data center :night_with_stars: or in a public cloud :cloud:.
 
-grommunio runs with just a single user up to many hundreds of thousands of users, from a rasberry pi to mainframes or even geo-split environments with the highest demands.
+grommunio runs with just a single user up to many hundreds of thousands of users, from a rasberry pi to mainframes or even geo-split installations distributed all over the world.
 
 ## Open Source :penguin:
 

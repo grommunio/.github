@@ -10,7 +10,7 @@ grommunio runs with just a single user up to many hundreds of thousands of users
 
 ## _The_ turnkey communication solution :email: :calendar: :card_index: :clipboard: :spiral_notepad: :speech_balloon: :open_file_folder: :headphones: :bar_chart:
 
-grommunio is unique: it is drop-in compatible with Microsoft Exchange, providing all relevant messaging protocols to its open source and prorietary clients such as Microsoft Outlook without the installation of MAPI extensions on the client. grommunio is even compatible with Outlook 2010 and 2013, while it is not endorsed to still run these old versions anymore (no more :paperclip: or :vhs: times).
+grommunio is unique: it is drop-in compatible with Microsoft Exchange, providing all relevant messaging protocols to its open source and prorietary clients such as Microsoft Outlook without the installation of MAPI extensions on the client. grommunio is even compatible with Outlook 2010 and 2013, while it is not recommended to still run these old versions anymore (no more :paperclip: or :vhs: times).
 
 ## Open Source :penguin:
 

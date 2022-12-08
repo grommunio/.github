@@ -1,5 +1,3 @@
-# .github
-
 # Hello World! 👋
 
 **We are grommunio, a software company (and community) based in beautiful Vienna, Austria :austria:.**

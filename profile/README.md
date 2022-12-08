@@ -2,7 +2,7 @@
 
 **We are grommunio, a software company (and community) based in beautiful Vienna, Austria.**
 
-With grommunio it no longer matters how many communication channels you use. The inefficiency of context switches in your team’s communication is a thing of the past with grommunio. At the same time, grommunio provides a independently proven high level of privacy and security for one of your most valuable goods: your data.
+With grommunio it no longer matters how many communication channels you use. The inefficiency of context switches in your team’s communication is a thing of the past with grommunio. At the same time, grommunio provides highest levels of privacy and security for one of your most valuable goods: your data.
 
 Decide for yourself where your data is stored – on your server, in your data center, in the public cloud.
 

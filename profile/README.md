@@ -8,6 +8,10 @@ Decide for yourself where your data is stored – at home :house_with_garden:, o
 
 grommunio runs with just a single user up to many hundreds of thousands of users, from a rasberry pi to mainframes or even geo-split installations distributed all over the world.
 
+## _The_ turnkey communication solution
+
+grommunio is unique: it is drop-in compatible with Microsoft Exchange, providing all relevant messaging protocols to its open source and prorietary clients such as Microsoft Outlook without the installation of MAPI extensions on the client.
+
 ## Open Source :penguin:
 
 grommunio would not be possible without free and open source software. We believe in open source - we believe it is important for both, our society and organizations. With the right team, you accomplish a lot and add value to the community.

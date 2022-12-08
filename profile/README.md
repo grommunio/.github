@@ -4,7 +4,7 @@
 
 With grommunio it no longer matters how many communication channels you use. The inefficiency of context switches in your team’s communication is a thing of the past with grommunio. At the same time, grommunio provides highest levels of privacy and security for one of your most valuable goods: your data.
 
-Decide for yourself where your data is stored – on your server, in your data center, in the public cloud.
+Decide for yourself where your data is stored – at home :house_with_garden:, on your server :office:, in your data center :night_with_stars: or in a public cloud :cloud:.
 
 grommunio runs with just a single user up to many hundreds of thousands of users, from a rasberry pi to mainframes or even geo-split environments with the highest demands.
 

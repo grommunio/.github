@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hello World!
 
 **We are grommunio, a software company (and community) based in beautiful Vienna, Austria. :ferris_wheel:**
 

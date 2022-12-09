@@ -12,17 +12,17 @@ grommunio runs with just a single user up to many hundreds of thousands of users
 
 grommunio is unique: it is drop-in compatible with Microsoft Exchange, providing all relevant messaging protocols to its open source and prorietary clients such as Microsoft Outlook without the installation of MAPI extensions on the client. grommunio is even compatible with Outlook 2010 and 2013, while it is not recommended to still run these old versions anymore (no more :paperclip: or :vhs: times).
 
-## Open Source :penguin:
+## Open Source
 
 grommunio would not be possible without free and open source software. We believe in open source - we believe it is important for both, our society and organizations. With the right team, you accomplish a lot and add value to the community.
 
-## Security :lock:
+## Security
 At grommunio we greatly value the support of IT security researchers and members of cybersecurity communities in helping us to maintain our high IT security standards.
 
 If you identify a security vulnerability relating to any of our products, please notify us promptly before disclosing the vulnerability to the outside world, so that we can take the necessary measures. This is known as responsible disclosure.
 
 If you have identified a security vulnerability, please send us your notification as soon as possible via email to [office@grommunio.com](mailto:offica@grommunio.com)
 
-## Support :mechanic:
+## Support 
 
 Support is available through grommunio GmbH and its partners. For commercial options, check out [https://grommunio.com](https://grommunio.com)
